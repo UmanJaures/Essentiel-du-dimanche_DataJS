@@ -1,13 +1,28 @@
 // Données des enseignements
         const allSermons = [
+
             {
-                theme: "Le coeur derrière l'offrande.",
-                date: "22 Juin 2025",
-                thematic: "Genèse 4:1-16",
-                image: "https://i.postimg.cc/W3mr5QP4/hands-offering-heart-generosity-compassion-vector-design-generative-ai-tender-illustration-one-pair.webp",
-                url: "Dimanche22Juin2025.html"
+                theme: "JADCI – En ces temps de la fin, vivons la vie du Royaume de Dieu.",
+                date: "27 Juillet 2025",
+                thematic: "Matthieu 5:13-16",
+                image: "https://i.postimg.cc/zvnYD73d/Chat-GPT-Image-29-juil-2025-13-29-55.png",
+                url: "Dimanche27Juillet2025.html"
             },
             {
+                theme: "Vivons comme des enfants du Royaume de Dieu",
+                date: "27 Juillet 2025",
+                thematic: "Poeme de la Jeunesse",
+                image: "https://i.postimg.cc/cHGHPN4Z/Chat-GPT-Image-22-juil-2025-13-33-23.png",
+                url: "Poeme I Jeunesse.html"
+            },
+            {
+                theme: "Nouvelle vie",
+                date: "27 Juillet 2025",
+                thematic: "Poeme de la Jeunese",
+                image: "https://i.postimg.cc/cHGHPN4Z/Chat-GPT-Image-22-juil-2025-13-33-23.png",
+                url: "Poeme II Jeunesse.html"
+            },
+           {
                 theme: "En ces temps de la fin, menons le bon combat car Jésus revient.",
                 date: "20 Juillet 2025",
                 thematic: "2 Timothée 4:6-8",
@@ -20,6 +35,13 @@
                 thematic: "Jérémie 28",
                 image: "https://i.postimg.cc/QMbnvnDf/1429125165-124523-1200x667x0.jpg",
                 url: "Dimanche29Juin2025.html"
+            },
+          {
+                theme: "Le coeur derrière l'offrande.",
+                date: "22 Juin 2025",
+                thematic: "Genèse 4:1-16",
+                image: "https://i.postimg.cc/W3mr5QP4/hands-offering-heart-generosity-compassion-vector-design-generative-ai-tender-illustration-one-pair.webp",
+                url: "Dimanche22Juin2025.html"
             }
             
         ];
