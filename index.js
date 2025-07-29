@@ -9,7 +9,7 @@
                 url: "Dimanche27Juillet2025.html"
             },
             {
-                theme: "Vivons comme des enfants du Royaume de Dieu",
+                theme: "Enfants du Royaume",
                 date: "27 Juillet 2025",
                 thematic: "Poeme de la Jeunesse",
                 image: "https://i.postimg.cc/g23NcKRY/vivons-la-vie-du-royaume.webp",
