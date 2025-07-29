@@ -12,14 +12,14 @@
                 theme: "Vivons comme des enfants du Royaume de Dieu",
                 date: "27 Juillet 2025",
                 thematic: "Poeme de la Jeunesse",
-                image: "https://i.postimg.cc/cHGHPN4Z/Chat-GPT-Image-22-juil-2025-13-33-23.png",
+                image: "https://i.postimg.cc/g23NcKRY/vivons-la-vie-du-royaume.webp",
                 url: "Poeme I Jeunesse.html"
             },
             {
                 theme: "Nouvelle vie",
                 date: "27 Juillet 2025",
                 thematic: "Poeme de la Jeunese",
-                image: "https://i.postimg.cc/cHGHPN4Z/Chat-GPT-Image-22-juil-2025-13-33-23.png",
+                image: "https://i.postimg.cc/FzJ7VgS4/New-Life-sm.webp",
                 url: "Poeme II Jeunesse.html"
             },
            {
