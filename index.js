@@ -1,6 +1,13 @@
 // Données des enseignements
         const allSermons = [
-
+             
+             {
+                theme: "Enfant, sois un acteur du Réveil par le Saint-Esprit",
+                date: "03 Aout 2025",
+                thematic: "1 Samuel 3:1-4",
+                image: "https://i.postimg.cc/Hn7NLYhx/Reveil-de-l-enfant.webp",
+                url: "Dimanche03Aout2025.html"
+            },
             {
                 theme: "JADCI – En ces temps de la fin, vivons la vie du Royaume de Dieu.",
                 date: "27 Juillet 2025",
