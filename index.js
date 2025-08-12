@@ -2,6 +2,13 @@
         const allSermons = [
              
              {
+                theme: "Le rôle de l’enfant de Dieu en ces temps difficiles",
+                date: "10 Aout 2025",
+                thematic: "1 Timothée 2:1-8",
+                image: "https://i.postimg.cc/qMy8yx4x/man-kneeling-praying-to-god-faith-prayer-concept-sketch-vector-illustration-2-G2-T31-R.jpg",
+                url: "Dimanche10Aout2025.html"
+            },
+             {
                 theme: "Enfant, sois un acteur du Réveil par le Saint-Esprit",
                 date: "03 Aout 2025",
                 thematic: "1 Samuel 3:1-4",
