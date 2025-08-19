@@ -2,6 +2,13 @@
         const allSermons = [
              
              {
+                theme: "Christ Crucifié.",
+                date: "17 Aout 2025",
+                thematic: "Psaume 22:2-5 ; Psaume 22:16-17.",
+                image: "https://i.postimg.cc/pr36J5Tn/god-love-jesus-christ-crucified-vector-illustration-42212065.webp ",
+                url: "Dimanche17Aout2025.html"
+             },
+             {
                 theme: "Le rôle de l’enfant de Dieu en ces temps difficiles",
                 date: "10 Aout 2025",
                 thematic: "1 Timothée 2:1-8",
