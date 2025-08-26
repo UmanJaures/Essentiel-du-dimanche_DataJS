@@ -2,6 +2,13 @@
         const allSermons = [
              
              {
+                theme: "Les épreuves dans la vie de l’enfant de Dieu.",
+                date: "24 Aout 2025",
+                thematic: "1 Thessaloniciens 3:2-3.",
+                image: "https://i.postimg.cc/cJjq09KR/Gemini-Generated-Image-17wgmi17wgmi17wg.png",
+                url: "Dimanche24Aout2025.html"
+             },
+             {
                 theme: "Christ Crucifié.",
                 date: "17 Aout 2025",
                 thematic: "Psaumes 22:2-5-Psaumes 22:16-17",
