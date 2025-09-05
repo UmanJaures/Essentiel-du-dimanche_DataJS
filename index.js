@@ -2,6 +2,13 @@
         const allSermons = [
              
              {
+                theme: "Les épreuves dans la vie de l’enfant de Dieu (Suite).",
+                date: "31 Aout 2025",
+                thematic: "Ésaïe 51:22-23 ; Ésaïe 54:15-17.",
+                image: "https://i.postimg.cc/Y081FxVn/Chat-GPT-Image-5-sept-2025-10-17-06.png",
+                url: "Dimanche24Aout2025.html"
+             },
+             {
                 theme: "Les épreuves dans la vie de l’enfant de Dieu.",
                 date: "24 Aout 2025",
                 thematic: "1 Thessaloniciens 3:2-3.",
