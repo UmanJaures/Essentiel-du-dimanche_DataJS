@@ -33,7 +33,7 @@
                 ces moments : <br>
   <strong>• La colère de Dieu n’est jamais éternelle ;</strong> elle a une limite, car Il est plein de 
                 compassion. Sa discipline vise à corriger, non à détruire définitivement. <br>
-  </strong>• Dieu défend toujours son peuple au temps marqué.</strong> Même lorsque la situation semble 
+  <strong>• Dieu défend toujours son peuple au temps marqué.</strong> Même lorsque la situation semble 
                 désespérée et que l’ennemi croit avoir pris le dessus, rien n’échappe à sa souveraineté.
                 Tes ennemis ne resteront pas impunis, car tout instrument de châtiment levé contre un 
                 enfant de Dieu finit par être brisé.
