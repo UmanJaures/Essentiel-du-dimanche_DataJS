@@ -4,7 +4,7 @@
             preacher: " Pasteur Konde Victor",
             passage: " Zacharie 4:6-9 ; Exode 3:7-8 ; Josué 1:2-6.",
             date: "Dimanche 07 Septembre 2025",
-            image: "https://i.postimg.cc/RV7RptQt/Pasteur-Konde.png",
+            image: "https://i.postimg.cc/QxrdRv7x/Pasteur-Konde-1.png",
             content: `
                 <p> Bien-aimés dans le Seigneur, en ce dimanche 07 septembre 2025, nous avons clôturé 
                 notre semaine spirituelle autour du thème central : « Grande Montagne, qui es-tu ? ».
