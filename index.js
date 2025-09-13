@@ -2,6 +2,13 @@
         const allSermons = [
              
              {
+                theme: "« Grande Montagne, Qui es-tu ? »",
+                date: "07 Septembre 2025",
+                thematic: "Zacharie 4:6-9 ; Exode 3:7-8 ; Josué 1:2-6.",
+                image: "https://i.postimg.cc/3JyTR1H0/Gemini-Generated-Image-3ffcsm3ffcsm3ffc.png",
+                url: "Dimanche07Septembre2025.html"
+             },
+             {
                 theme: "Les épreuves dans la vie de l’enfant de Dieu (Suite).",
                 date: "31 Aout 2025",
                 thematic: "Ésaïe 51:22-23 ; Ésaïe 54:15-17.",
