@@ -1,6 +1,20 @@
 // Données des enseignements
         const allSermons = [
              
+            {
+                theme: "« Que ton cœur ne se trouble point !»",
+                date: "21 Septembre 2025",
+                thematic: " Jérémie 51:46 ; Jean 14:27",
+                image: "https://i.postimg.cc/TYPxcKSM/Gemini-Generated-Image-5o66i05o66i05o66.png",
+                url: "Dimanche21Septembre2025.html"
+             },
+             {
+                theme: "Les combats que Christ a livrés pour nous",
+                date: "14 Septembre 2025",
+                thematic: " Ésaïe 53:3-6",
+                image: "https://i.postimg.cc/bN452dfR/Gemini-Generated-Image-9r6p49r6p49r6p49.png",
+                url: "Dimanche14Septembre2025.html"
+             },
              {
                 theme: "« Grande Montagne, Qui es-tu ? »",
                 date: "07 Septembre 2025",
