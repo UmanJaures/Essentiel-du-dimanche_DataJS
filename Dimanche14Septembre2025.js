@@ -4,7 +4,7 @@
             preacher: "Pasteur AKELIN",
             passage: "Ésaïe 53:3-6",
             date: "Dimanche 14 Septembre 2025",
-            image: " https://i.postimg.cc/43mhC2qw/IMG-20250914-WA0058.jpg",
+            image: " https://i.postimg.cc/Hxnzht9C/IMG-20250914-WA0058.jpg",
             content: `
                 <p> Ce dimanche 14 septembre 2025, le Pasteur Akelin nous a édifiés sur un 
                 message profond : les combats que Christ a livrés pour nous. Il nous a rappelé 
