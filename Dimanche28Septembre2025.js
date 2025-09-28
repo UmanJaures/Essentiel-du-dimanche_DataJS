@@ -48,7 +48,7 @@
                 cœur se relâche entre deux battements. <br>
                 cœur se relâche entre deux battements. Une tension dite « normale » se situe en 
                 moyenne autour de 120/80 mmHg (systole/diastole). <br>
-                <strong> • Au-dessus de 140/90 mmHg, on parle déjà d’hypertension artérielle. </strong>
+                <strong> • Au-dessus de 140/90 mmHg, on parle déjà d’hypertension artérielle. </strong> <br>
                 <strong> • Plus ces chiffres augmentent, plus le risque pour la santé devient 
                 élevé. </strong> <br>
                 L’hypertension artérielle est redoutable parce qu’elle évolue souvent sans 
