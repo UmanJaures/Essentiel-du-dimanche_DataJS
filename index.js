@@ -2,6 +2,13 @@
         const allSermons = [
              
             {
+                theme: "La Tension Élevée, l’Ennemi Silencieux.",
+                date: "28 Septembre 2025",
+                thematic: "Exode 15:26.",
+                image: "https://i.postimg.cc/HWhcgRcd/Chat-GPT-Image-28-sept-2025-21-29-23.png",
+                url: "Dimanche28Septembre2025.html"
+             },
+            {
                 theme: "« Que ton cœur ne se trouble point !»",
                 date: "21 Septembre 2025",
                 thematic: " Jérémie 51:46 ; Jean 14:27",
