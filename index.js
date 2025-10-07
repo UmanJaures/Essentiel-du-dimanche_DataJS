@@ -8,6 +8,13 @@
                 image: "https://i.postimg.cc/rmSkQKb5/Gemini-Generated-Image-pp4p0rpp4p0rpp4p.png",
                 url: "Dimanche05Octobre2025.html"
              },
+             {
+                theme: "Le Diabète — Parlons-en",
+                date: "05 Octobre 2025",
+                thematic: "Exode 15:26.",
+                image: "https://i.postimg.cc/d3MW0bMY/Gemini-Generated-Image-65acuz65acuz65ac-1.png",
+                url: "Sensibilisation05Octobre2025.html "
+             },
             {
                 theme: "La Tension Élevée, l’Ennemi Silencieux.",
                 date: "28 Septembre 2025",
