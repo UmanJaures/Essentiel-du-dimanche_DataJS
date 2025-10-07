@@ -2,6 +2,13 @@
         const allSermons = [
              
             {
+                theme: " La diffusion du Réveil par les jeunes.",
+                date: "05 Octobre 2025",
+                thematic: " Romains 8:19",
+                image: "https://i.postimg.cc/cJS0p7SG/Gemini-Generated-Image-pp4p0rpp4p0rpp4p-1-1.png",
+                url: "Dimanche05Octobre2025.html"
+             },
+            {
                 theme: "La Tension Élevée, l’Ennemi Silencieux.",
                 date: "28 Septembre 2025",
                 thematic: "Exode 15:26.",
