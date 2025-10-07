@@ -1,6 +1,6 @@
 // Current Sermon Data - Inspiration Divine
         const currentSermon = {
-            theme: "La Diffusion du Réveil par les jeunes — Jeune, par le Saint-Esprit, sois un acteur de Réveil !",
+            theme: "La Diffusion du Réveil par les jeunes.",
             preacher: "Frère Gbato Serge",
             passage: " Romains 8:19",
             date: "Dimanche 05 Octobre 2025",
