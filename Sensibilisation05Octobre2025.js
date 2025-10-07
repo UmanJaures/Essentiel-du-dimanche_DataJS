@@ -109,7 +109,8 @@
                 <i> « Votre corps est le temple du Saint-Esprit » </i> (1 Corinthiens 6 :19). <br>
                 Ainsi, la foi ne remplace pas la prévention — elle la renforce.
                 </p> </strong> <br>
-                            <i> Amen.</i>
+                            <i> <a href="https://drive.google.com/file/d/1nEuZPRdm6RS194wWhDG_pjmlCTh1cAg5/view?usp=drivesdk" > 
+                            Cliquez pour télécharger le PDF sur le Diabète. </a> .</i>
 
             `
         };

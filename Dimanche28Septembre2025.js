@@ -107,7 +107,8 @@
                 et la confiance en Dieu. En prenant soin de notre corps, nous honorons le 
                 Seigneur, car nous sommes le temple du Saint-Esprit (1 Corinthiens 6:19-20).
                 </p> </strong> <br>
-                            <i> Amen.</i>
+                            <i> <a href="https://drive.google.com/file/d/1_VnSB1Y2KImDPYrT61tndVuAXn_mLG99/view?usp=drivesdk" >
+                            Cliquez pour télécharger le PDF sur l'Hypertension Arterielle. </a> </i>
 
             `
         };
