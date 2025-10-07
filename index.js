@@ -5,7 +5,7 @@
                 theme: " La diffusion du Réveil par les jeunes — Jeune, par le Saint-Esprit, sois un acteur de Réveil!",
                 date: "05 Octobre 2025",
                 thematic: " Romains 8:19",
-                image: "https://i.postimg.cc/cJS0p7SG/Gemini-Generated-Image-pp4p0rpp4p0rpp4p-1-1.png",
+                image: "https://i.postimg.cc/rmSkQKb5/Gemini-Generated-Image-pp4p0rpp4p0rpp4p.png",
                 url: "Dimanche05Octobre2025.html"
              },
             {
