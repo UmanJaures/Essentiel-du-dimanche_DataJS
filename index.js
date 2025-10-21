@@ -2,6 +2,13 @@
         const allSermons = [
              
             {
+                theme: " Jésus-Christ, la Sécurité Totale.",
+                date: "19 Octobre 2025",
+                thematic: "Psaume 34:8 — 2 Chroniques 16:9 — Exode 23:22",
+                image: "https://i.postimg.cc/jS4DCdbL/Gemini-Generated-Image-ajc89lajc89lajc8-1.png",
+                url: "Dimanche19Octobre2025.html"
+             },
+            {
                 theme: " La diffusion du Réveil par les jeunes — Jeune, par le Saint-Esprit, sois un acteur de Réveil!",
                 date: "05 Octobre 2025",
                 thematic: " Romains 8:19",
