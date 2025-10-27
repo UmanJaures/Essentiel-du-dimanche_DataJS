@@ -2,6 +2,13 @@
         const allSermons = [
              
             {
+                theme: "L’Hygiène Alimentaire",
+                date: "26 Octobre 2025",
+                thematic: "Exode 15:26.",
+                image: "https://i.postimg.cc/X7yqVTGQ/Gemini-Generated-Image-35mclq35mclq35mc-1.png",
+                url: "Sensibilisation26Octobre2025.html"
+             },
+            {
                 theme: " Jésus-Christ, la Sécurité Totale.",
                 date: "19 Octobre 2025",
                 thematic: "Psaume 34:8 — 2 Chroniques 16:9 — Exode 23:22",
