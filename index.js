@@ -2,6 +2,13 @@
         const allSermons = [
              
             {
+                theme: "La prière fervente du juste a une grande efficacité. ",
+                date: "09 Novembre 2025",
+                thematic: " Jacques 5:17-18 ",
+                image: "https://i.postimg.cc/Z53wYVdy/Gemini-Generated-Image-qctr7iqctr7iqctr-1.png",
+                url: "Dimanche09Novembre2025.html"
+             },
+            {
                 theme: "L’Hygiène Alimentaire",
                 date: "26 Octobre 2025",
                 thematic: "Exode 15:26.",
