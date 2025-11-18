@@ -53,7 +53,7 @@
 
                 <h2> 2️⃣ Les origines des jougs </h2>
 
-                <p> Certains jougs trouvent leur racine dans notre attitude ou nos choix. Parmi eux :
+                <p> Certains jougs trouvent leur racine dans notre attitude ou nos choix. Parmi eux : <br>
          <strong> • La désobéissance à la Parole de Dieu, qui nous éloigne de sa protection. <br> </strong>
             <strong> • La peur, qui traduit unmanque de confiance en l’Éternel et devient une arme entre les mains de l’ennemi. <br> </strong>
             <strong> • Les alliances impures, notamment le fait d'entretenir des liens affectifs contraires à la volonté de Dieu, qui placent sous un “joug étranger”. <br> </strong>

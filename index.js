@@ -2,7 +2,7 @@
         const allSermons = [
              
             {
-                theme: "C'est l’onction qui brise le joug du mal.",
+                theme: "C'est l’onction qui brise le joug du mal_EBENEZER2025",
                 date: "16 Novembre 2025",
                 thematic: " Ésaïe 10:27 — Ésaïe 43:18 ",
                 image: "https://i.postimg.cc/wjzf4QFV/Gemini-Generated-Image-4bh85g4bh85g4bh8-(1).png",
